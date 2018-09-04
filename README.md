@@ -5,7 +5,7 @@ Easy to customize. No database needed.
 Launch index.php to see an exemple of tracklist history.
 
 Looks like : 
-![My image](Sebouier.github.com/shoutcast-song-history/result.png)
+![My image](result.png)
 
 Demo here : https://www.toutes-les-radios.fr/?genre=top50&name=ABC%20Lounge&cover=abclounge.jpg&url=http://protostar.shoutca.st:8234&path=/stream&streamid=1&type=shoutcast2&mtpt=
 
