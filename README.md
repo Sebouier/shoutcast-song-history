@@ -13,3 +13,4 @@ Features :
 - SIMPLE HTML DOM
 - JQUERY
 - AJAX
+- RESPONSIVE
